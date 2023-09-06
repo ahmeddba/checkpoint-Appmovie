@@ -1,0 +1,18 @@
+.contt{
+    border: none !important;
+    background-color: transparent !important;
+    box-shadow: 0px 0px 6px  white;
+}
+.contt:hover{
+    cursor :pointer;
+    border: none !important;
+    background-color: transparent !important;
+    box-shadow: 0px 0px 18px  white;
+}
+.contt *{
+
+    background-color: transparent !important;
+}
+.descc{
+    height: 150px !important;
+}
